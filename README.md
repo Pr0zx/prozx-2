@@ -23,7 +23,7 @@ Random Password Generator — это графическое приложение
 
 ## Установка и запуск
 
-1. **Скачайте файл** `password_generator.py`
+1. **Скачайте файл** `password_generator.json`
 
 2. **Убедитесь, что Python установлен:**
    ```bash
